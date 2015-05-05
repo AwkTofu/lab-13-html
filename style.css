@@ -1,0 +1,38 @@
+p{
+	font-size: 12px;
+	text-decoration: line-through;
+}
+body {
+    background: white url(http://fc04.deviantart.net/fs70/f/2012/050/3/0/chibi_hatsune_miku_by_meyou_anime-d4qbmbw.jpg) repeat top right;
+}
+input:focus, textarea:focus {
+    background: #eee;
+}
+h1{
+	color: #008000;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-width: 5px;
+	border-style: dashed;
+	border-color: red;
+
+}
+#intro{
+	border-spacing: 1px;
+	border-style: solid;
+	border-color: black;
+}
+.spotlight{
+	background-color: yellow;
+	color: blue;
+}
+h2{
+	text-decoration: underline;
+}
+body{
+	font-family: sans-serif;
+}
+p, h2{
+	color: darkgreen;
+}
